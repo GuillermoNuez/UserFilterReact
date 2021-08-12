@@ -8,8 +8,6 @@ Install Node if you havent. https://nodejs.org/en/
 
 You need to execute `npm install` in the root so it installs the packages you need
 
-Then execute `npm install react-router-dom`
-
 All done!!, now execute `npm start` to get the app running
 
 ## Available Scripts
