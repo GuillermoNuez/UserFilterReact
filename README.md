@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Things you must do
+
+Install Node if you havent. https://nodejs.org/en/
+
+You need to execute `npm install` in the root so it installs the packages you need
+
+Then execute `npm install react-router-dom`
+
+All done!!, now execute `npm start` to get the app running
+
 ## Available Scripts
 
 In the project directory, you can run:
